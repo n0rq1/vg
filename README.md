@@ -1,2 +1,4 @@
-# vg
-visibility graph research for time series forecasting
+# Visibility Graphs
+
+
+## Visibility Graph research for time series forecasting. 
