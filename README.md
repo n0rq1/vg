@@ -1,5 +1,3 @@
-[![Contributors][contributors-shield]][https://github.com/n0rq1/vg/graphs/contributors]
-
 ## Visibility Graphs
 
 ## Visibility Graph research for time series forecasting.
