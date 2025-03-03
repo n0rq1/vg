@@ -7,7 +7,6 @@ Understand and define centrality measures for weighted directed NVGs - doing in 
 Build NVG using ts2vg on sample dataset
 Review existing applications of NVGs in time series analysis  
 Convert NVG to a NetworkX graph representation  
-
 In Progress
 Research algorithms of TS to VGs
 Research weighted and directed graph adaptations in network science  
