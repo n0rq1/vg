@@ -3,3 +3,5 @@ numpy
 matplotlib
 networkx
 ts2vg
+statsmodels
+scikit-learn
